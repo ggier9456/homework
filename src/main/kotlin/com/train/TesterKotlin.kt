@@ -11,6 +11,7 @@ fun main(args:Array<String>) {
     val rnum=sca.nextInt()
     val tic =Ticket(num,rnum)
     tic.print()
+
 }
 
 
